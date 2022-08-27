@@ -1,2 +1,2 @@
 # Create-Markdown
-First lab on cloud Computing
+First lab on Cloud Computing
